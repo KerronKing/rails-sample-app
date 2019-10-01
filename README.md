@@ -1,24 +1,44 @@
-# README
+## Rails Sample App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is part of the Microverse Ruby on Rails track.
 
-Things you may want to cover:
+The goal was to build a rails app according to Chapters 3 & 4 of the book: Ruby on Rails Tutorial
 
-* Ruby version
+[Assignment link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/let-s-get-building)
 
-* System dependencies
+You can find the live version of this can be found [here](https://mighty-stream-98486.herokuapp.com)
 
-* Configuration
+## License
 
-* Database creation
+All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
+is available jointly under the MIT License and the Beerware License. See
+[LICENSE.md](LICENSE.md) for details.
 
-* Database initialization
+## Getting started
 
-* How to run the test suite
+To get started with the app, clone the repo and then install the needed gems:
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+$ bundle install --without production
+```
 
-* Deployment instructions
+Next, migrate the database:
 
-* ...
+```
+$ rails db:migrate
+```
+
+Finally, run the test suite to verify that everything is working correctly:
+
+```
+$ rails test
+```
+
+If the test suite passes, you'll be ready to run the app in a local server:
+
+```
+$ rails server
+```
+
+For more information, see the
+[*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
