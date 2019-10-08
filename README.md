@@ -1,10 +1,6 @@
 ## Rails Sample App
 
-This project is part of the Microverse Ruby on Rails track.
-
-The goal was to build a rails app according to Chapters 3 & 4 of the book: Ruby on Rails Tutorial
-
-[Assignment link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/let-s-get-building)
+This project is part of the Michael Hartl rails tutorial. The objective is to build a basic rails application.
 
 You can find the live version of this can be found [here](https://mighty-stream-98486.herokuapp.com)
 
