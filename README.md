@@ -2,7 +2,7 @@
 
 This project is part of the Michael Hartl rails tutorial. The objective is to build a basic rails application.
 
-You can find the live version of this can be found [here](https://mighty-stream-98486.herokuapp.com)
+You can find the live version of this [here](https://mighty-stream-98486.herokuapp.com)
 
 ## License
 
